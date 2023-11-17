@@ -30,8 +30,8 @@ Statistics
 
 Download links:
 
-  - CUIS link: https://pan.baidu.com/s/1VrzwD2HvMwisPXQitvGRcQ 提取码: 43p2
-  - SAUD-CCF link: https://pan.baidu.com/s/1SSOl6QvpBJL7ZW-023CjVA 提取码: w7p1
-  - SAUD-NUIQ link: https://pan.baidu.com/s/1Z5lr3g6nb3Euq6_ltqVfuw 提取码: f4sa
-  - UIEB-CCF link: https://pan.baidu.com/s/1snyFngwTAJ1HBA4_m6VN9w 提取码: nnr5
-  - UIEB-NUIQ link: https://pan.baidu.com/s/1hbO_uUgxVB4Ws8YY0Wg0Bw 提取码: eean
+  - CUIS link: https://pan.baidu.com/s/1VrzwD2HvMwisPXQitvGRcQ - Code: 43p2
+  - SAUD-CCF link: https://pan.baidu.com/s/1SSOl6QvpBJL7ZW-023CjVA - Code: w7p1
+  - SAUD-NUIQ link: https://pan.baidu.com/s/1Z5lr3g6nb3Euq6_ltqVfuw - Code: f4sa
+  - UIEB-CCF link: https://pan.baidu.com/s/1snyFngwTAJ1HBA4_m6VN9w - Code: nnr5
+  - UIEB-NUIQ link: https://pan.baidu.com/s/1hbO_uUgxVB4Ws8YY0Wg0Bw - Code: eean
