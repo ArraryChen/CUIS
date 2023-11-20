@@ -5,26 +5,19 @@ Download: https://github.com/ArraryChen/CUIS
 
 Statistics
 -----------
-1. Raw data of CUIS
+Raw data of CUIS
+CUIS-slight：200 underwater images with slight degradation
+CUIS-medium：600 underwater images with medium degradation
+CUIS-severe：200 underwater images with severe degradation
 
-  - slight contains 200 degraded images
-  - general contains 600 degraded images
-  - severe contains 200 degraded images
+Enhanced data of CUIS
+CUIS-slight-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+CUIS-medium-CCF：600 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+CUIS-severe-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
 
-
-2. Enhanced data of CUIS
-
-  - ccf contains 1000 enhanced images of CUIS dataset ranked by CCF metric
-  - nuiq contains 1000 enhanced images of CUIS dataset ranked by NUIQ metric
-
-
-3. Enhanced data of SAUD and UIEB
-
-
-  - SAUD-CCF contains 100 enhanced images of SAUD dataset ranked by CCF metric
-  - SAUD-NUIQ contains 100 enhanced images of SAUD dataset ranked by NUIQ metric
-  - UIEB-CCF contains 950 enhanced images of UIEB dataset ranked by CCF metric
-  - UIEB-NUIQ contains 950 enhanced images of UIEB dataset ranked by NUIQ metric
+CUIS-slight-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+CUIS-medium-NUIQ：600 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
 
 --------------------------
 
