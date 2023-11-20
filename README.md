@@ -7,22 +7,30 @@ Statistics
 -----------
 Raw data of CUIS
 CUIS-slight：200 underwater images with slight degradation
+
 CUIS-medium：600 underwater images with medium degradation
+
 CUIS-severe：200 underwater images with severe degradation
 
 Enhanced data of CUIS
 CUIS-slight-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+
 CUIS-medium-CCF：600 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+
 CUIS-severe-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
 
 CUIS-slight-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+
 CUIS-medium-NUIQ：600 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+
 CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
 
 --------------------------
 Download links:
 
-  - CUIS link: https://pan.baidu.com/s/1VrzwD2HvMwisPXQitvGRcQ - Code: 43p2
+  - CUIS-raw link: https://pan.baidu.com/s/1kD5kbBuiMcx6p_RSkFUV-A - Code: pv7c
+  - CUIS-CCF link: https://pan.baidu.com/s/12OU-N3oLuOwpryW5uXxa3Q - Code: y6kh
+  - CUIS-NUIQ link: https://pan.baidu.com/s/1WktKlC1dIC6b3vsriMQK3w - Code: 1ngu
   - SAUD-CCF link: https://pan.baidu.com/s/1SSOl6QvpBJL7ZW-023CjVA - Code: w7p1
   - SAUD-NUIQ link: https://pan.baidu.com/s/1Z5lr3g6nb3Euq6_ltqVfuw - Code: f4sa
   - UIEB-CCF link: https://pan.baidu.com/s/1snyFngwTAJ1HBA4_m6VN9w - Code: nnr5
