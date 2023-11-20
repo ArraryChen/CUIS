@@ -6,6 +6,7 @@ Download: https://github.com/ArraryChen/CUIS
 Statistics
 -----------
 Raw data of CUIS
+
 CUIS-slight：200 underwater images with slight degradation
 
 CUIS-medium：600 underwater images with medium degradation
@@ -13,6 +14,7 @@ CUIS-medium：600 underwater images with medium degradation
 CUIS-severe：200 underwater images with severe degradation
 
 Enhanced data of CUIS
+
 CUIS-slight-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
 
 CUIS-medium-CCF：600 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
