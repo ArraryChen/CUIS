@@ -1,3 +1,10 @@
+Dataset name: CUIS
+Paper: A New Classified Dataset for Underwater Image Enhancement
+Download: https://github.com/ArraryChen/CUIS
+
+
+Statistics
+-----------
 Raw data of CUIS
 CUIS-slight：200 underwater images with slight degradation
 CUIS-medium：600 underwater images with medium degradation
@@ -12,6 +19,7 @@ CUIS-slight-NUIQ：200 restored images, each enhanced by the best of eleven meth
 CUIS-medium-NUIQ：600 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
 CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
 
+--------------------------
 Download links:
 
   - CUIS link: https://pan.baidu.com/s/1VrzwD2HvMwisPXQitvGRcQ - Code: 43p2
