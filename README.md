@@ -5,27 +5,37 @@ Download: https://github.com/ArraryChen/CUIS
 
 Statistics
 -----------
-Raw data of CUIS
+1. Raw data of CUIS
 
-CUIS-slight：200 underwater images with slight degradation
+  - CUIS-slight：200 underwater images with slight degradation
+    
+  - CUIS-medium：600 underwater images with medium degradation
+    
+  - CUIS-severe：200 underwater images with severe degradation
 
-CUIS-medium：600 underwater images with medium degradation
+2. Enhanced data of CUIS
 
-CUIS-severe：200 underwater images with severe degradation
+  - CUIS-slight-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+    
+  - CUIS-medium-CCF：600 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+    
+  - CUIS-severe-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
 
-Enhanced data of CUIS
+  - CUIS-slight-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+    
+  - CUIS-medium-NUIQ：600 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+    
+  - CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
 
-CUIS-slight-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+3. Enhanced data of SAUD and UIEB
 
-CUIS-medium-CCF：600 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
-
-CUIS-severe-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
-
-CUIS-slight-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
-
-CUIS-medium-NUIQ：600 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
-
-CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+  - SAUD-CCF contains 100 enhanced images of SAUD dataset ranked by CCF metric
+    
+  - SAUD-NUIQ contains 100 enhanced images of SAUD dataset ranked by NUIQ metric
+    
+  - UIEB-CCF contains 950 enhanced images of UIEB dataset ranked by CCF metric
+    
+  - UIEB-NUIQ contains 950 enhanced images of UIEB dataset ranked by NUIQ metric
 
 --------------------------
 Download links:
