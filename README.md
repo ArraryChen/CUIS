@@ -1,6 +1,5 @@
 Dataset name: CUIS
 
-Paper: A New Classified Dataset for Underwater Image Enhancement
 
 Download: https://github.com/ArraryChen/CUIS
 
