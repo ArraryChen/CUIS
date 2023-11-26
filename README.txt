@@ -1,4 +1,4 @@
-Dataset name: CUIS
+Dataset name: CUIS (Classified Underwater Image Set)
 Download: https://github.com/ArraryChen/CUIS
 
 
