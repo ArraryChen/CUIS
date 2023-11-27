@@ -2,7 +2,7 @@ Dataset name: CUIS (Classified Underwater Image Set)
 
 Download: https://github.com/ArraryChen/CUIS
 
-Source: some images of CUIS are collected from UIEB (Underwater Image Enhancement Benchmark) and SAUD (Subjectively-Annotated UIE benchmark Dataset) datasets.
+Source: images of CUIS are collected from Google Images and UIEB (Underwater Image Enhancement Benchmark) and SAUD (Subjectively-Annotated UIE benchmark Dataset) datasets.
 
   - UIEB: https://li-chongyi.github.io/proj_benchmark.html
   - SAUD: https://github.com/yia-yuese/SAUD-Dataset
