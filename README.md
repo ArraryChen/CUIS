@@ -44,10 +44,10 @@ Statistics
 --------------------------
 Download links:
 
-  - CUIS-raw link: https://pan.baidu.com/s/1kD5kbBuiMcx6p_RSkFUV-A - Code: pv7c
-  - CUIS-CCF link: https://pan.baidu.com/s/12OU-N3oLuOwpryW5uXxa3Q - Code: y6kh
-  - CUIS-NUIQ link: https://pan.baidu.com/s/1WktKlC1dIC6b3vsriMQK3w - Code: 1ngu
-  - SAUD-CCF link: https://pan.baidu.com/s/1SSOl6QvpBJL7ZW-023CjVA - Code: w7p1
-  - SAUD-NUIQ link: https://pan.baidu.com/s/1Z5lr3g6nb3Euq6_ltqVfuw - Code: f4sa
-  - UIEB-CCF link: https://pan.baidu.com/s/1snyFngwTAJ1HBA4_m6VN9w - Code: nnr5
-  - UIEB-NUIQ link: https://pan.baidu.com/s/1hbO_uUgxVB4Ws8YY0Wg0Bw - Code: eean
+  - CUIS-raw link: https://pan.baidu.com/s/1NloGMxk2ovvsoKsk5Ie-7w - Code: uyry
+  - CUIS-CCF link: https://pan.baidu.com/s/1319dQlOTMBRCQp2g7Twfsw - Code: 367n
+  - CUIS-NUIQ link: https://pan.baidu.com/s/10SS2157YTuNA6mQmHk4kVA - Code: mhuw
+  - SAUD-CCF link: https://pan.baidu.com/s/1qSI--A-YRxpfQ5VhgZa8gQ - Code: ezhb
+  - SAUD-NUIQ link: https://pan.baidu.com/s/1c5KsQhGb94bZgz6r6iHLsw - Code: eq2w
+  - UIEB-CCF link: https://pan.baidu.com/s/1ZuhQn1xQF1jsuEmoRrBzFQ - Code: 3v8c
+  - UIEB-NUIQ link: https://pan.baidu.com/s/1bl4aoBd6yN28jwwwQZAGcQ - Code: w17n
