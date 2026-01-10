@@ -7,6 +7,8 @@ Source: The raw images in CUIS were collected from Google Images, UIEB (Underwat
   - UIEB: https://li-chongyi.github.io/proj_benchmark.html
   - SAUD: https://github.com/yia-yuese/SAUD-Dataset
 
+The CCF.zip directory includes code for defining the thresholds used by CCF to partition the CUIS dataset, as well as code for evaluating the CUIS dataset under the CCF metric using 11 UIE methods (to generate the corresponding performance scores).
+
 Statistics
 -----------
 1. Raw data of CUIS
