@@ -46,7 +46,7 @@ Statistics
 Download links:
 
   - CUIS-raw link: https://pan.baidu.com/s/1NloGMxk2ovvsoKsk5Ie-7w - Code: uyry
-  - CUIS-CCF link: https://pan.baidu.com/s/1319dQlOTMBRCQp2g7Twfsw - Code: 367n
+  - CUIS-CCF link: https://pan.baidu.com/s/1aqvJeDFHzRWCTuPFzUWlFg - Code: vjh5
   - CUIS-NUIQ link: https://pan.baidu.com/s/10SS2157YTuNA6mQmHk4kVA - Code: mhuw
   - SAUD-CCF link: https://pan.baidu.com/s/1qSI--A-YRxpfQ5VhgZa8gQ - Code: ezhb
   - SAUD-NUIQ link: https://pan.baidu.com/s/1c5KsQhGb94bZgz6r6iHLsw - Code: eq2w
