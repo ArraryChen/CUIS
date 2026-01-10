@@ -26,29 +26,16 @@ Statistics
     
   - CUIS-severe-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
 
-  - CUIS-slight-NUIQ：350 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
-    
-  - CUIS-medium-NUIQ：450 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
-    
-  - CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
-
 3. Enhanced data of SAUD and UIEB
 
   - SAUD-CCF contains 100 enhanced images of SAUD dataset ranked by CCF metric
-    
-  - SAUD-NUIQ contains 100 enhanced images of SAUD dataset ranked by NUIQ metric
-    
+      
   - UIEB-CCF contains 950 enhanced images of UIEB dataset ranked by CCF metric
     
-  - UIEB-NUIQ contains 950 enhanced images of UIEB dataset ranked by NUIQ metric
-
 --------------------------
 Download links:
 
   - CUIS-raw link: https://pan.baidu.com/s/1aqvJeDFHzRWCTuPFzUWlFg - Code: vjh5
   - CUIS-CCF link: https://pan.baidu.com/s/15yAdbQ-wQWgMW3rYA6QMKQ - Code: s3cf
-  - CUIS-NUIQ link: https://pan.baidu.com/s/10SS2157YTuNA6mQmHk4kVA - Code: mhuw
   - SAUD-CCF link: https://pan.baidu.com/s/1qSI--A-YRxpfQ5VhgZa8gQ - Code: ezhb
-  - SAUD-NUIQ link: https://pan.baidu.com/s/1c5KsQhGb94bZgz6r6iHLsw - Code: eq2w
   - UIEB-CCF link: https://pan.baidu.com/s/1ZuhQn1xQF1jsuEmoRrBzFQ - Code: 3v8c
-  - UIEB-NUIQ link: https://pan.baidu.com/s/1bl4aoBd6yN28jwwwQZAGcQ - Code: w17n
