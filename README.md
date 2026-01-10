@@ -1,7 +1,7 @@
 # CUIS
 Dataset name: CUIS (Classified Underwater Image Set)
 
-Download: https://github.com/ArraryChen/CUIS
+Download:https://github.com/1133672/CUIS
 
 Source: The raw images in CUIS were collected from Google Images, UIEB (Underwater Image Enhancement Benchmark) and SAUD (Subjectively-Annotated UIE benchmark Dataset) datasets, respectively.
 
@@ -12,23 +12,23 @@ Statistics
 -----------
 1. Raw data of CUIS
 
-  - CUIS-slight：200 underwater images with slight degradation
+  - CUIS-slight：350 underwater images with slight degradation
     
-  - CUIS-medium：600 underwater images with medium degradation
+  - CUIS-medium：450 underwater images with medium degradation
     
   - CUIS-severe：200 underwater images with severe degradation
 
 2. Enhanced data of CUIS
 
-  - CUIS-slight-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+  - CUIS-slight-CCF：350 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
     
-  - CUIS-medium-CCF：600 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
+  - CUIS-medium-CCF：450 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
     
   - CUIS-severe-CCF：200 restored images, each enhanced by the best of eleven methods (ranked by CCF metric)
 
-  - CUIS-slight-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+  - CUIS-slight-NUIQ：350 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
     
-  - CUIS-medium-NUIQ：600 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
+  - CUIS-medium-NUIQ：450 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
     
   - CUIS-severe-NUIQ：200 restored images, each enhanced by the best of eleven methods (ranked by NUIQ metric)
 
