@@ -39,5 +39,5 @@ Download links:
 
   - CUIS-raw link: https://pan.baidu.com/s/1aqvJeDFHzRWCTuPFzUWlFg - Code: vjh5
   - CUIS-CCF link: https://pan.baidu.com/s/15yAdbQ-wQWgMW3rYA6QMKQ - Code: s3cf
-  - SAUD-CCF link: https://pan.baidu.com/s/1qSI--A-YRxpfQ5VhgZa8gQ - Code: 8hqx
-  - UIEB-CCF link: https://pan.baidu.com/s/105mMGyEzuF7d5duFa4A5-A - Code: hsmm
+  - SAUD-CCF link: [https://pan.baidu.com/s/1qSI--A-YRxpfQ5VhgZa8gQ](https://pan.baidu.com/s/1goa3ZbyLqfMjS8enjutHYA?pwd=8hqx) - Code: 8hqx
+  - UIEB-CCF link: [https://pan.baidu.com/s/105mMGyEzuF7d5duFa4A5-A](https://pan.baidu.com/s/105mMGyEzuF7d5duFa4A5-A?pwd=hsmm) - Code: hsmm
